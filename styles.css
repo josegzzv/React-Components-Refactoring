@@ -1,0 +1,12 @@
+.navicon {
+    width: 1em;
+    height: 1em;
+}
+
+.footer {
+    font-size: xx-small;
+}
+
+.search{
+    margin-left: calc(60vw - 330px);
+}
